@@ -7,4 +7,4 @@ Most attention had been payed to the math of intersection but there is also an e
  of simple "dungeon" collision detector. However the detector itself is not optimized at all
 especially for hi-load. It presented as illustration. Don't be surprised it was enough for my needs of simple games.
 
-See [example] (http://pecheny.github.io/HXRaycast-example) for more details or [try Demo] (http://pecheny.github.io/HXRaycast-example/HxdetExamples.swf).
+See [example] (http://pecheny.github.io/HXRaycast-example) for more details or [try demo] (http://pecheny.github.io/HXRaycast-example/HxdetExamples.swf).
