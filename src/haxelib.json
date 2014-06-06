@@ -1,0 +1,11 @@
+{
+    "name": "HXRaycast",
+    "url" : "https://github.com/pecheny/hxdet",
+    "license": "MIT",
+    "tags": ["collision", "game", "detector", "detection"],
+    "description": "Collision detector",
+    "version": "1.0.0",
+    "releasenote": "Initial version",
+    "contributors": ["pecheny"],
+    "dependencies": {}
+}
